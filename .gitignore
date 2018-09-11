@@ -474,4 +474,6 @@ __pycache__/
 
 .sass-lint.yml
 .cache-loader
-yarn-error.log
+*.map
+*.js.map
+.src
